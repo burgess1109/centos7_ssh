@@ -4,8 +4,8 @@
 * SSH Server :  openssh-server
 * The size of the image is about 380 MB
 
-## Centos7³Ì·sª©¥»,°ò¥»®M¥ó¤ÎSSH Server
+## Centos7æœ€æ–°ç‰ˆæœ¬,åŸºæœ¬å¥—ä»¶åŠSSH Server
 
-* ±`¥Î°ò¥»®M¥ó : dos2unix,net-tools,vixie-cron,crontabs,telnet,screen,wget,unzip,tar,passwd,vim
+* å¸¸ç”¨åŸºæœ¬å¥—ä»¶ : dos2unix,net-tools,vixie-cron,crontabs,telnet,screen,wget,unzip,tar,passwd,vim
 * SSH Server :  openssh-server
-* ¬M¹³ÀÉ¤j¤p¬ù 380 MB
+* æ˜ åƒæª”å¤§å°ç´„ 380 MB 
